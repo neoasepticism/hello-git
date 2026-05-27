@@ -1,6 +1,7 @@
 # hello-git
 
 git과 GitHub를 배우기 위한 첫 리포지토리.
+신기하군
 
 ## 다룬 것
 - `git init`, `add`, `commit`

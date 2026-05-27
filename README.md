@@ -2,6 +2,7 @@
 
 git과 GitHub를 배우기 위한 첫 리포지토리.
 신기하군
+브랜치를 추가한다 
 
 ## 다룬 것
 - `git init`, `add`, `commit`
